@@ -1,12 +1,13 @@
 import type { SiteConfig } from './types';
 
 export const SITE_CONFIG: SiteConfig = {
-  name: 'TOP AUTO SERVIS',
+  name: 'Your Business',
   tagline: '',
   templateType: 'services',
-  palette: 'professional',
+  palette: 'clean-light',
   language: 'sk',
-  headingFont: 'oswald',
-  whatsappNumber: '421903263626',
-  contactEmail: 'topservisauto@centrum.sk',
+  headingFont: 'inter',
+  whatsappNumber: '',
+  contactEmail: '',
+  googleReviewsUrl: '',
 };
